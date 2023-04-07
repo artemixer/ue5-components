@@ -1,1 +1,1 @@
-Timelines can't be added into components, so this "component" is more of a pastebin for the nodes, rather than an actual working component. However the curves shown on the screenshot can be still used to setup the function, but it has to be done in the root graph
+Timelines can't be added into components, so this "component" is more of a pastebin for the nodes, rather than an actual working component. However the curves shown on the screenshot can be still used to setup the functionality, but it has to be done in the root graph
